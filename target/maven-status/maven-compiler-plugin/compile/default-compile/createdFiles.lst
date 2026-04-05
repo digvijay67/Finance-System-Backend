@@ -1,0 +1,5 @@
+com\finance\system\dashboard\dto\DashboardDtos$DashboardSummary.class
+com\finance\system\config\RedisConfig.class
+com\finance\system\dashboard\dto\DashboardDtos$CategorySummary.class
+com\finance\system\dashboard\dto\DashboardDtos$MonthlyTrend.class
+com\finance\system\dashboard\dto\DashboardDtos.class
