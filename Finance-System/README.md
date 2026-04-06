@@ -249,3 +249,12 @@ Once running, visit: **http://localhost:8080/swagger-ui.html**
 - [ ] Set up database connection pool sizing for expected load
 - [ ] Enable Spring Boot Actuator for health checks
 - [ ] Add rate limiting (e.g., Bucket4j) on `/auth/login`
+
+
+  ## Outpot    
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-06 203638" src="https://github.com/user-attachments/assets/ab95d0a5-9212-47b4-a786-9e184f306747" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-06 203819" src="https://github.com/user-attachments/assets/b5865291-0cef-47d6-b1d9-84d195dcd03a" />
+
+
+
